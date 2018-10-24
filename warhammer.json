@@ -707,9 +707,17 @@
                     }] 
                 }]
 
+            },
+            "Ranged DPS":{
+               
+            }, 
+            "Healers":{
+                
             }
         },
-        "Destruction": {}
+        "Destruction": {
+            
+        }
 
     }
 }
