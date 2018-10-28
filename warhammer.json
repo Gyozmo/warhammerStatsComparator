@@ -1,4 +1,41 @@
 {
+    "DecimatorSet": {
+        "tanks": {
+            "Knight of the Blazing Sun": {
+                "Decimator Sabatons": {
+                    "Rank": 7,
+                    "Renown": 7,
+                    "Cost": 3,
+                    "Armor": 120,
+                    "Toughness": 4,
+                    "Wounds": 6,
+                    "Initiative": 2,
+                    "Strength": 2,
+                },
+                "Decimator Corslet": {
+                    "Rank": 8,
+                    "Renown": 8,
+                    "Cost": 9,
+                    "Armor": 165,
+                    "Toughness": 8,
+                    "Initiative": 4,
+                    "Strength": 5,
+                    "Bonus #1": "+ 1% Block"
+                }
+            },
+            "Ironbreaker": [
+
+            ],
+            "Swordmaster": [
+
+            ],
+            "Bonus": {
+                "2 Pieces": {
+                    "Toughness":14
+                }
+            }
+        }
+    },
     "ConquetorSet": {
         "tanks": {
             "Knight of the Blazing Sun":[{
